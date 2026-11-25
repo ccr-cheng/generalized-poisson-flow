@@ -1,0 +1,21 @@
+GPFlow contribution terms
+
+Copyright (c) 2026 Chaoran Cheng
+
+Scope
+
+These terms apply only to the copyrightable GPFlow additions and modifications by the copyright holders named above. These terms cover the authors' contributions, not the underlying Proteina code or material authored by third parties. Existing copyright, attribution, and license notices remain applicable.
+
+Mandatory upstream condition
+
+The use limitation in Section 3.3 of the NVIDIA License in PROTEINA_LICENSE applies to all GPFlow contributions that are derivative works of Proteina. Such derivative works may be used only for non-commercial research or evaluation, subject to the exceptions expressly stated in that section. The NVIDIA License continues to apply to the original Proteina work, including its redistribution and notice requirements under Section 3.1.
+
+The MIT permission, notice, and disclaimer terms below are granted only subject to this mandatory upstream condition. They do not authorize any use prohibited by the NVIDIA License. The combined Proteina-derived implementation is therefore not offered under an unrestricted MIT license. Separately licensed third-party components retain their own license terms.
+
+Permission and disclaimer
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
